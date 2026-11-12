@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Bu listeyi kullanırsanız lütfen aşağıdaki şekilde kaynak gösterin."
+title: "AI ile Yazılan Uygulamalar için Yayın Öncesi Güvenlik Kontrol Listesi"
+abstract: "Claude Code, Cursor, Lovable, Replit veya ChatGPT gibi yapay zeka araçlarıyla yazılan iş uygulamaları için yayın öncesi Türkçe güvenlik kontrol listesi. Şifreler, yetki kontrolü, kullanıcı verisi, kütüphaneler, sunucu, yedekleme, izleme, KVKK ve bakım başlıklarını kapsar."
+type: software
+authors:
+  - family-names: "Alver"
+    given-names: "Oktay"
+    orcid: "https://orcid.org/0009-0001-4055-1603"
+    affiliation: "ADEA Sistem"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-11-12"
+repository-code: "https://github.com/OktayAlver/ai-uygulama-guvenlik-kontrol-listesi"
+url: "https://www.adeasis.com/ai-uygulama-guvenlik-kontrol-listesi/"
+keywords:
+  - "güvenlik kontrol listesi"
+  - "yapay zeka ile yazılan kod"
+  - "vibe coding"
+  - "KVKK"
+  - "uygulama güvenliği"
